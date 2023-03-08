@@ -27,7 +27,7 @@ def plot_estoque(dataframe, categoria):
 # importando os dados
 dados = pd.read_csv('estoque.csv')
 
-st.title('Análise de estoque\n')
+st.title('Análise de estoque Carla B\n')
 st.write('Nesse projeto vamos analisar a quantidade de produtos em estoque, por categoria,  de uma base de dados de produtos de supermercado')
 
 # filtros para a tabela
